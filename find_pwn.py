@@ -1,6 +1,5 @@
 #!/usr/bin/python
 from pwn import *
-import getpass
 
 def main():
 
